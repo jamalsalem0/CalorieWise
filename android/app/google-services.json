@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438230667949",
+    "project_id": "caloriewise-app",
+    "storage_bucket": "caloriewise-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438230667949:android:cd2adaa68936a36efdec24",
+        "android_client_info": {
+          "package_name": "com.example.calorie_wise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLgNUlzvusgxxgl7ixJnIWcvEiF6VKJYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

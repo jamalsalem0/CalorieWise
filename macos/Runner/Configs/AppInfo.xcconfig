@@ -1,0 +1,6 @@
+
+PRODUCT_NAME = calorie_wise
+
+PRODUCT_BUNDLE_IDENTIFIER = com.example.calorieWise
+
+PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.
